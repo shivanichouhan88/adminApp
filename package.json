@@ -1,0 +1,15 @@
+{
+  "name": "admin-node",
+  "version": "1.0.0",
+  "description": "a admin app",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon src/index.js"
+  },
+  "author": "shivani chouhan",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0",
+    "nodemon": "^3.1.10"
+  }
+}
